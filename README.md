@@ -19,6 +19,15 @@ A proposta foi criar um site que permita o usuário adicionar playlists á uma l
 <li>Mostrar inputs controlados de nome, artista e url </li>
  <li>Adicionar a música na playlist</li>
 
-# Link do Projeto
+## 🌎 Como acessar o projeto
 
-https://gaudy-skirt.surge.sh/
+[Acesse o projeto](https://gaudy-skirt.surge.sh/)
+
+# Imagens
+
+# Inicio
+![Capturar](https://user-images.githubusercontent.com/86798260/173434458-94a109c8-fe3c-4b56-bb49-2894179a77cd.PNG)
+# PlayLists Cadastradas
+![Capturar1](https://user-images.githubusercontent.com/86798260/173434465-cf80fd02-9cbf-4f99-92c6-35051236a74c.PNG)
+# Musicas Cadastradas
+![Capturar2](https://user-images.githubusercontent.com/86798260/173434473-5a9bfb9d-8fb7-411b-b803-76b8fa31df10.PNG)
